@@ -1,3 +1,3 @@
 # test_eg
 
-to jest wpis testowy
+Projekt poświęcony testowaniu technologii gitworkflow w budowie kodu. 
